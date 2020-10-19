@@ -1,6 +1,8 @@
-C Programlama Dili ile örnekler
+EDUCATIONAL
 
-Üniversitede gördüğüm MTM1511 Programmin Language 1 dersi ve kaynak olarak kullandığım "C Programlamanın Temelleri" adlı kitaba paralel gittiğim çalışma reposudur.
+C Programlama Dili Temelleri
+
+Üniversitede gördüğüm MTM1511 Programming Language 1 dersi ve kaynak olarak kullandığım "C Programlamanın Temelleri" adlı kitaba paralel gittiğim çalışma reposudur.
 
 ------------------------------------------------
 
