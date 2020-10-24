@@ -7,6 +7,6 @@ int main()
 
    setlocale(LC_ALL, "");
    printf("Merhaba Dünya! C Programlama'ya hoşgeldin !\n");
-   
+
    return 0;
 }

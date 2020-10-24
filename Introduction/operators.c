@@ -2,13 +2,13 @@
 
 int main()
 {
-   int a= 40, b=20, add, sub, mul, div, mod ;
+   int a = 40, b = 20, add, sub, mul, div, mod;
 
-   add = a+b;
-   sub = a-b;
-   mul = a*b;
-   div= a/b;
-   mod= a%b;
+   add = a + b;
+   sub = a - b;
+   mul = a * b;
+   div = a / b;
+   mod = a % b;
 
    printf("a + b = %d \n", add);
    printf("a - b = %d \n", sub);

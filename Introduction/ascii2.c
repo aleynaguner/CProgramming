@@ -25,7 +25,7 @@ void main()
 
         else
             printf("\n Girdiğiniz karakter : %c \n", c);
-            
+
         getchar();
     }
 }

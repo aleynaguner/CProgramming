@@ -32,9 +32,9 @@ int main()
     gets(ch);
     printf("%s", ch);
 
-    int n1=123456;
-    long n2=9876543;
-    float n3=98.7654;
+    int n1 = 123456;
+    long n2 = 9876543;
+    float n3 = 98.7654;
 
     printf("%d \n", n1);
     printf("%10d \n", n1);
